@@ -1,0 +1,14 @@
+F:\Just IT\Projects\CrabShooter\CrabShooter\bin\Debug\CrabShooter.exe.config
+F:\Just IT\Projects\CrabShooter\CrabShooter\obj\Debug\CrabShooter.csprojResolveAssemblyReference.cache
+F:\Just IT\Projects\CrabShooter\CrabShooter\obj\Debug\CrabShooter.CrabShooter.resources
+F:\Just IT\Projects\CrabShooter\CrabShooter\obj\Debug\CrabShooter.Properties.Resources.resources
+F:\Just IT\Projects\CrabShooter\CrabShooter\obj\Debug\CrabShooter.csproj.GenerateResource.Cache
+F:\Just IT\Projects\CrabShooter\CrabShooter\bin\Debug\CrabShooter.exe
+F:\Just IT\Projects\CrabShooter\CrabShooter\bin\Debug\CrabShooter.pdb
+F:\Just IT\Projects\CrabShooter\CrabShooter\obj\Debug\CrabShooter.exe
+F:\Just IT\Projects\CrabShooter\CrabShooter\obj\Debug\CrabShooter.pdb
+F:\Just IT\Projects\CrabShooter\CrabShooter\bin\Debug\CrabShooter.exe.manifest
+F:\Just IT\Projects\CrabShooter\CrabShooter\bin\Debug\CrabShooter.application
+F:\Just IT\Projects\CrabShooter\CrabShooter\obj\Debug\CrabShooter.TrustInfo.xml
+F:\Just IT\Projects\CrabShooter\CrabShooter\obj\Debug\CrabShooter.exe.manifest
+F:\Just IT\Projects\CrabShooter\CrabShooter\obj\Debug\CrabShooter.application
